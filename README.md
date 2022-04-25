@@ -6,7 +6,7 @@ This Project has the objective of learning how a semantic segmentation network w
 The number of pixels by class can be seen on the image below, to show clearly the imabalance problem:
 
 <p align="center">
-  <img width="465" height="112" src="classes.png" alt="Number of pixels by class"/>
+  <img width="651" height="157" src="classes.png" alt="Number of pixels by class"/>
 </p>
 
 The weights calculation of each class for the loss function can be seen below:

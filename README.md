@@ -27,6 +27,7 @@ The model hyperparameters of the three trials, can be seen below:
   <img src="models_parameters.png" alt="Number of pixels by class"/>
 </p>
 
+### Model histories
 We can see an intresting observation in model training histories. As long as we reduce the patch size more noisy is the training:
 
 <p align="center">
@@ -41,6 +42,7 @@ We can see an intresting observation in model training histories. As long as we 
   <img src="LateX_images/history_model3.png" alt="Model 3 history"/>
 </p>
 
+### Model metrics
 Also, looking into the metrics we can see model 1, with the greater patch size, is the best model.
 
 <p align="center">
@@ -53,4 +55,23 @@ Also, looking into the metrics we can see model 1, with the greater patch size, 
 
 <p align="center">
   <img src="LateX_images/metrics_model3.png" alt="Model 3 metrics"/>
+</p>
+
+### Model prediction reconstruction
+Comparing the reconstructed prediction of each model with the test reference we can see more mispredictions, specifically of class 2 for models 2 and 3.
+
+<p align="center">
+  <img src="LateX_images/Reference_Test.jpeg" alt="reference test image"/>
+</p>
+
+<p align="center">
+  <img src="LateX_images/img_reconstructed_rgb_model1.jpeg" alt="Model 1 pred reconstruction"/>
+</p>
+
+<p align="center">
+  <img src="LateX_images/img_reconstructed_rgb_model2.jpeg" alt="Model 2 pred reconstruction"/>
+</p>
+
+<p align="center">
+  <img src="LateX_images/img_reconstructed_rgb_model3.jpeg" alt="Model 3 pred reconstruction"/>
 </p>

@@ -64,7 +64,7 @@ Also, looking into the metrics we can see model 1, with the greater patch size, 
   <img src="LateX_images/metrics_model3.png" alt="Model 3 metrics"/>
 </p>
 
-### Model prediction reconstruction
+### Predictions reconstruction
 Comparing the reconstructed prediction of each model with the test reference we can see more mispredictions, specifically of class 2 for models 2 and 3.
 
 <p align="center">

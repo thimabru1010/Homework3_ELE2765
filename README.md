@@ -61,17 +61,17 @@ Also, looking into the metrics we can see model 1, with the greater patch size, 
 Comparing the reconstructed prediction of each model with the test reference we can see more mispredictions, specifically of class 2 for models 2 and 3.
 
 <p align="center">
-  <img src="LateX_images/Reference_Test.jpeg" alt="reference test image"/>
+  <img width="1409" height="1279" src="LateX_images/Reference_Test.jpeg" alt="reference test image"/>
 </p>
 
 <p align="center">
-  <img src="LateX_images/img_reconstructed_rgb_model1.jpeg" alt="Model 1 pred reconstruction"/>
+  <img width="1409" height="1279" src="LateX_images/img_reconstructed_rgb_model1.jpeg" alt="Model 1 pred reconstruction"/>
 </p>
 
 <p align="center">
-  <img src="LateX_images/img_reconstructed_rgb_model2.jpeg" alt="Model 2 pred reconstruction"/>
+  <img width="1409" height="1279" src="LateX_images/img_reconstructed_rgb_model2.jpeg" alt="Model 2 pred reconstruction"/>
 </p>
 
 <p align="center">
-  <img src="LateX_images/img_reconstructed_rgb_model3.jpeg" alt="Model 3 pred reconstruction"/>
+  <img width="1409" height="1279" src="LateX_images/img_reconstructed_rgb_model3.jpeg" alt="Model 3 pred reconstruction"/>
 </p>

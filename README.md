@@ -64,9 +64,9 @@ Comparing the reconstructed prediction of each model with the test reference we 
   <img width="352" height="319" src="LateX_images/Reference_Test.jpeg" alt="reference test image"/>
 </p>
 
-<p align = "center">
-**Test reference**
-</p>
+<b align = "center">
+Test reference
+</b>
 
 <p align="center">
   <img width="352" height="319" src="LateX_images/img_reconstructed_rgb_model1.jpeg" alt="Model 1 pred reconstruction"/>

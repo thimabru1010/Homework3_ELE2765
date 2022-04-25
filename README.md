@@ -12,7 +12,7 @@ The number of pixels by class can be seen on the image below, to show clearly th
 The weights calculation of each class for the loss function can be seen below:
 
 <p align="center">
-  <img src="pixel_weight_loss.gif" alt="Class weights for loss function"/>
+  <img src="class_weights.png" alt="Class weights for loss function"/>
 </p>
 
 If this weight calculation doesn't fit for you, you can try a normalized version (the sum of all classes are equal to 1).

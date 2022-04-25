@@ -75,7 +75,9 @@ Test reference
 </p>
 
 <p align = "center">
+<strong>
 Model 1 prediction reconstruction
+</strong>
 </p>
 
 <p align="center">
@@ -83,7 +85,9 @@ Model 1 prediction reconstruction
 </p>
 
 <p align = "center">
+<strong>
 Model 2 prediction reconstruction
+</strong>
 </p>
 
 <p align="center">
@@ -91,5 +95,7 @@ Model 2 prediction reconstruction
 </p>
 
 <p align = "center">
+<strong>
 Model 3 prediction reconstruction
+</strong>
 </p>

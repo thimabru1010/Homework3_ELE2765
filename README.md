@@ -26,3 +26,17 @@ The model hyperparameters of the three trials, can be seen below:
 <p align="center">
   <img src="models_parameters.png" alt="Number of pixels by class"/>
 </p>
+
+We can see an intresting observation in modekl training histories. As long as we reduce the patch size more noisy is the training:
+
+<p align="center">
+  <img src="" alt="Number of pixels by class"/>
+</p>
+
+<p align="center">
+  <img src="" alt="Number of pixels by class"/>
+</p>
+
+<p align="center">
+  <img src="" alt="Number of pixels by class"/>
+</p>

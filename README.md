@@ -30,13 +30,13 @@ The model hyperparameters of the three trials, can be seen below:
 We can see an intresting observation in modekl training histories. As long as we reduce the patch size more noisy is the training:
 
 <p align="center">
-  <img src="" alt="Number of pixels by class"/>
+  <img src="LateX_images/history_model1.png" alt="Model 1 history"/>
 </p>
 
 <p align="center">
-  <img src="" alt="Number of pixels by class"/>
+  <img src="LateX_images/history_model2.png" alt="Model 2 history"/>
 </p>
 
 <p align="center">
-  <img src="" alt="Number of pixels by class"/>
+  <img src="LateX_images/history_model3.png" alt="Model 3 history"/>
 </p>

@@ -19,13 +19,20 @@ The weights calculation of each class for the loss function can be seen below:
 
 If this weight calculation doesn't fit for you, you can try a normalized version (the sum of all classes are equal to 1).
 
+## Training
+inside the notebook `train_model.ipynb` you have all the necessary scripts to train U-Net, including U-Net architecture implementation, patches extraction, **weighted cross entropy** custom loss and more.
 
-## Results
+I used a stride with half the size of patch size, to enhance the the size of training data, since I had only one image to train. Also, if you have a powerful GPU, use a bigger patch size.
 
 The model hyperparameters of the three trials, can be seen below:
 <p align="center">
   <img src="models_parameters.png" alt="Number of pixels by class"/>
 </p>
+
+## Testing
+On testing notebook `Test_model.ipynb` you have all the preprocess scripts and also prediction patches reconstruction and patches visualization code.
+
+## Results
 
 ### Model histories
 We can see an intresting observation in model training histories. As long as we reduce the patch size more noisy is the training:

@@ -20,14 +20,14 @@ The weights calculation of each class for the loss function can be seen below:
 If this weight calculation doesn't fit for you, you can try a normalized version (the sum of all classes are equal to 1).
 
 
-## Training
+## Results
 
 The model hyperparameters of the three trials, can be seen below:
 <p align="center">
   <img src="models_parameters.png" alt="Number of pixels by class"/>
 </p>
 
-We can see an intresting observation in modekl training histories. As long as we reduce the patch size more noisy is the training:
+We can see an intresting observation in model training histories. As long as we reduce the patch size more noisy is the training:
 
 <p align="center">
   <img src="LateX_images/history_model1.png" alt="Model 1 history"/>
@@ -39,4 +39,18 @@ We can see an intresting observation in modekl training histories. As long as we
 
 <p align="center">
   <img src="LateX_images/history_model3.png" alt="Model 3 history"/>
+</p>
+
+Also, looking into the metrics we can see model 1, with the greater patch size, is the best model.
+
+<p align="center">
+  <img src="LateX_images/metrics_model1.png" alt="Model 1 metrics"/>
+</p>
+
+<p align="center">
+  <img src="LateX_images/metrics_model2.png" alt="Model 2 metrics"/>
+</p>
+
+<p align="center">
+  <img src="LateX_images/metrics_model3.png" alt="Model 3 metrics"/>
 </p>

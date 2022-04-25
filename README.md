@@ -65,7 +65,7 @@ Comparing the reconstructed prediction of each model with the test reference we 
 </p>
 
 <p align = "center">
-Test reference
+**Test reference**
 </p>
 
 <p align="center">

@@ -29,6 +29,8 @@ The model hyperparameters of the three trials, can be seen below:
   <img src="models_parameters.png" alt="Number of pixels by class"/>
 </p>
 
+If you want to reproduce results the dataset is in this drive: https://drive.google.com/drive/folders/17sy0-ljxP9xQH8ANvjsZTru8aCOxZz4x?usp=sharing
+
 ## Testing
 On testing notebook `Test_model.ipynb` you have all the preprocess scripts and also prediction patches reconstruction and patches visualization code.
 

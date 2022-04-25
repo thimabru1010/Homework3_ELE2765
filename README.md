@@ -65,14 +65,16 @@ Comparing the reconstructed prediction of each model with the test reference we 
 </p>
 
 <p align = "center">
+<strong>
 Test reference
+</strong>
 </p>
 
 <p align="center">
   <img width="352" height="319" src="LateX_images/img_reconstructed_rgb_model1.jpeg" alt="Model 1 pred reconstruction"/>
 </p>
 
-<p style="font-weight: bold;" align = "center">
+<p align = "center">
 Model 1 prediction reconstruction
 </p>
 
